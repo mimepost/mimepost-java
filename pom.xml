@@ -6,28 +6,28 @@
     <packaging>jar</packaging>
     <name>mimepost</name>
     <version>1.0.0</version>
-    <url>https://github.com/swagger-api/swagger-codegen</url>
-    <description>Swagger Java</description>
+    <url>https://github.com/mimepost/mimepost-java</url>
+    <description>MimePost Java SDK</description>
     <scm>
-        <connection>scm:git:git@github.com:swagger-api/swagger-codegen.git</connection>
-        <developerConnection>scm:git:git@github.com:swagger-api/swagger-codegen.git</developerConnection>
+        <connection>scm:git:mimepost@github.com:mimepost/mimepost-java.git</connection>
+        <developerConnection>scm:git:mimepost@github.com:mimepost/mimepost-java.git</developerConnection>
         <url>https://github.com/swagger-api/swagger-codegen</url>
     </scm>
 
     <licenses>
         <license>
-            <name>Unlicense</name>
-            <url>http://unlicense.org</url>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
             <distribution>repo</distribution>
         </license>
     </licenses>
 
     <developers>
         <developer>
-            <name>Swagger</name>
-            <email>apiteam@swagger.io</email>
-            <organization>Swagger</organization>
-            <organizationUrl>http://swagger.io</organizationUrl>
+            <name>MimePost Devs</name>
+            <email>dev@mimepost.com</email>
+            <organization>MimePost (Symbolist Technology Pvt. Ltd.)</organization>
+            <organizationUrl>https://mimepost.com</organizationUrl>
         </developer>
     </developers>
 
